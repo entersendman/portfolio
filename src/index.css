@@ -222,7 +222,11 @@ li:hover{
 }
 .skill-3 span:nth-child(1),
 .skill-3 span:nth-child(2),
-.skill-3 span:nth-child(3){
+.skill-3 span:nth-child(3),
+.skill-3 span:nth-child(4),
+.skill-3 span:nth-child(5),
+.skill-3 span:nth-child(6),
+.skill-3 span:nth-child(7){
   background-color: #ED3E18;
 }
 .skill-4 span:nth-child(1),.skill-4 span:nth-child(4),
