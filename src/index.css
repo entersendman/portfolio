@@ -24,7 +24,8 @@ html, body {
 
 }
 .header a {
-  color: #81221d;
+  color: #f9f9f9;
+    text-shadow: 2px 2px 3px #000;
   font-weight: 700;
   text-decoration: none;
   padding: 10px 30px 10px 0px;
@@ -117,7 +118,8 @@ ul {
   padding: 0;
 }
 li{
-  color: #81221d;
+    color: #f9f9f9;
+    text-shadow: 2px 2px 3px #000;
   padding-right:30px;
   transition: 0.35s;
   -moz-transition: 0.35s;
@@ -139,7 +141,8 @@ li:hover{
   display : inline-block;
 }
 .footer {
-  color: #81221d;
+    color: #f9f9f9;
+    text-shadow: 2px 2px 3px #000;
   text-align:center;
   padding:30px 0px 20px 0px;
   border-top: 1px solid #a6a6a6;
@@ -320,9 +323,11 @@ hr{
     justify-content: center;
 }
 .titleBlog h1{
-    color: #740a05;
+    color: #f9f9f9;
+    text-shadow: 2px 2px 3px #000;
     text-transform: uppercase;
-    border-bottom: 2px solid #8c8b8b;
+    border-bottom: 2px solid #a6a6a6;
+
     font-size: 2.2rem;
     letter-spacing: 5px;
 }

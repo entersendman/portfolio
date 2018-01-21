@@ -21,11 +21,10 @@ class About extends React.Component{
                     </div>
                     <section className="wrapper">
                         <div className="blurb">
-                            <p><strong>Hi!</strong> My name is <strong>Yaroslav</strong>. I’m a senior student of Taras Shevchenko National University of Kyiv,
+                            <p><strong>Greetings!</strong> My name is <strong>Yaroslav</strong>. I’m a senior student of Taras Shevchenko National University of Kyiv,
                                 Radio Physics department. I am fond of networks and decided to
-                                try something new, so i chose a web programming.
-                                Since the beginning of my training in the basics of the front-end development
-                                it has already been a long time, so I hasten to share what I have learned.
+                                try something new, so I chose web programming.
+                                Since the beginning of my training in the basics of the front-end development, a long time has already passed, so I hasten to share what I have learned.
                                 This is my first portfolio and in general the application where I used the
                                 React JS. I really liked the above mentioned framework, since it is easy for understanding
                                 for a newcomer that I am. </p> </div>

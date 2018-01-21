@@ -11,7 +11,7 @@ class Blog extends React.Component{
         return(
             <div className = "wrapperBlog">
                 <div className="titleBlog">
-                     <h1>Welcome on my blog page!</h1>
+                     <h1>Welcome to my blog page!</h1>
                 </div>
                 <div className="postContainer" >
                     <ArticleList articles = {articles}>

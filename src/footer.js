@@ -17,7 +17,7 @@ class Footer extends React.Component{
                     <a href="https://www.facebook.com/drummerdolbit" target="_blank"><li className = "fa fa-facebook-square" style={{fontSize: '36px'}}></li></a>
                     <a href="https://github.com/entersendman" target="_blank"><li className="fa fa-github-alt" style={{fontSize: '36px'}}></li></a>
                 </ul>
-                Kyiv, 2017 (c)Yaroslav Yuzvenko
+                Kyiv,  2018 (c)Yaroslav Yuzvenko
             </div>
         )
     }
