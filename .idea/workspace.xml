@@ -210,12 +210,12 @@
       <workItem from="1516369657285" duration="12523000" />
       <workItem from="1516395522995" duration="7899000" />
       <workItem from="1516548473770" duration="1207000" />
-      <workItem from="1516550708209" duration="393000" />
+      <workItem from="1516550708209" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52033000" />
+    <option name="totallyTimeSpent" value="52197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="-4" width="1303" height="780" extended-state="6" />
@@ -540,6 +540,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
