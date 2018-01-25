@@ -18,12 +18,12 @@ ReactDOM.render(
             <BrowserRouter history = {history}>
                 <div>
                 <div className="header">
-                    <Link to = "/" >About</Link>
-                    <Link to = "/blog" >Blog</Link>
+                    <Link to = "/portfolio" >About</Link>
+                    <Link to = "/portfolio/blog" >Blog</Link>
                 </div>
                 <div>
-                    <Route exact path = "/" component = {About} />
-                    <Route  path="/blog" component = {Blog} />
+                    <Route exact path = "/portfolio" component = {About} />
+                    <Route  path = "/portfolio/blog" component = {Blog} />
                 </div>
                 </div>
             </BrowserRouter>
